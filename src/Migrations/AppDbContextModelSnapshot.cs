@@ -37,73 +37,73 @@ namespace AscendedGuild.Migrations
                         new
                         {
                             PlayerClassId = 1,
-                            ImageUrl = "/images/dk.png",
+                            ImageUrl = "/images/class-icons/dk.png",
                             Name = "Death Knight"
                         },
                         new
                         {
                             PlayerClassId = 2,
-                            ImageUrl = "/images/mage.png",
+                            ImageUrl = "/images/class-icons/mage.png",
                             Name = "Mage"
                         },
                         new
                         {
                             PlayerClassId = 3,
-                            ImageUrl = "/images/rogue.png",
+                            ImageUrl = "/images/class-icons/rogue.png",
                             Name = "Rogue"
                         },
                         new
                         {
                             PlayerClassId = 4,
-                            ImageUrl = "/images/dh.png",
+                            ImageUrl = "/images/class-icons/dh.png",
                             Name = "Demon Hunter"
                         },
                         new
                         {
                             PlayerClassId = 5,
-                            ImageUrl = "/images/monk.png",
+                            ImageUrl = "/images/class-icons/monk.png",
                             Name = "Monk"
                         },
                         new
                         {
                             PlayerClassId = 6,
-                            ImageUrl = "/images/shaman.png",
+                            ImageUrl = "/images/class-icons/shaman.png",
                             Name = "Shaman"
                         },
                         new
                         {
                             PlayerClassId = 7,
-                            ImageUrl = "/images/druid.png",
+                            ImageUrl = "/images/class-icons/druid.png",
                             Name = "Druid"
                         },
                         new
                         {
                             PlayerClassId = 8,
-                            ImageUrl = "/images/paladin.png",
+                            ImageUrl = "/images/class-icons/paladin.png",
                             Name = "Paladin"
                         },
                         new
                         {
                             PlayerClassId = 9,
-                            ImageUrl = "/images/warlock.png",
+                            ImageUrl = "/images/class-icons/warlock.png",
                             Name = "Warlock"
                         },
                         new
                         {
                             PlayerClassId = 10,
-                            ImageUrl = "/images/hunter.png",
+                            ImageUrl = "/images/class-icons/hunter.png",
                             Name = "Hunter"
                         },
                         new
                         {
                             PlayerClassId = 11,
-                            ImageUrl = "/images/priest.png",
+                            ImageUrl = "/images/class-icons/priest.png",
                             Name = "Priest"
                         },
                         new
                         {
                             PlayerClassId = 12,
-                            ImageUrl = "/images/warrior.png",
+                            ImageUrl = "/images/class-icons/warrior.png",
                             Name = "Warrior"
                         });
                 });
@@ -139,289 +139,289 @@ namespace AscendedGuild.Migrations
                                 new
                                 {
                                     PlayerClassId = 1,
-                                    SpecId = new Guid("c6560cc2-49f0-44b2-b5f0-236a430f1fde"),
+                                    SpecId = new Guid("7cfe1662-7a15-4703-af9b-bdc44865a83c"),
                                     Demand = 0,
-                                    ImageUrl = "/images/dk-blood.jpg",
+                                    ImageUrl = "/images/class-icons/dk-blood.jpg",
                                     Name = "Blood"
                                 },
                                 new
                                 {
                                     PlayerClassId = 1,
-                                    SpecId = new Guid("bf5616bd-7f7f-4e46-8951-b863d643d6fa"),
+                                    SpecId = new Guid("5deb45dc-af3b-4335-b87f-b392c0cfca2f"),
                                     Demand = 0,
-                                    ImageUrl = "/images/dk-frost.jpg",
+                                    ImageUrl = "/images/class-icons/dk-frost.jpg",
                                     Name = "Frost"
                                 },
                                 new
                                 {
                                     PlayerClassId = 1,
-                                    SpecId = new Guid("5fab59d5-7ff7-402e-b7d1-87742a0d53d5"),
+                                    SpecId = new Guid("364555df-efcb-4815-943b-f27108c1c526"),
                                     Demand = 0,
-                                    ImageUrl = "/images/dk-unholy.jpg",
+                                    ImageUrl = "/images/class-icons/dk-unholy.jpg",
                                     Name = "Unholy"
                                 },
                                 new
                                 {
                                     PlayerClassId = 2,
-                                    SpecId = new Guid("0e15b7c2-49fb-4fca-bc5d-1a1b27b8f5b2"),
+                                    SpecId = new Guid("bc664d09-93e4-4bf4-a844-d7e67f897041"),
                                     Demand = 0,
-                                    ImageUrl = "/images/mage-arcane.jpg",
+                                    ImageUrl = "/images/class-icons/mage-arcane.jpg",
                                     Name = "Arcane"
                                 },
                                 new
                                 {
                                     PlayerClassId = 2,
-                                    SpecId = new Guid("ccf2c6e4-d68a-4759-97b7-14a4f26c4c9f"),
+                                    SpecId = new Guid("c9b0d180-273f-4f0d-b5d5-d2d3c578e1ee"),
                                     Demand = 0,
-                                    ImageUrl = "/images/mage-fire.jpg",
+                                    ImageUrl = "/images/class-icons/mage-fire.jpg",
                                     Name = "Fire"
                                 },
                                 new
                                 {
                                     PlayerClassId = 2,
-                                    SpecId = new Guid("ad2c86ef-66f8-4e2c-9f61-26f100f36610"),
+                                    SpecId = new Guid("d0e3c779-bb61-4109-b10d-de31b3e3bb62"),
                                     Demand = 0,
-                                    ImageUrl = "/images/mage-frost.jpg",
+                                    ImageUrl = "/images/class-icons/mage-frost.jpg",
                                     Name = "Frost"
                                 },
                                 new
                                 {
                                     PlayerClassId = 3,
-                                    SpecId = new Guid("4554cd1d-26a9-4b75-aef0-0500fa88ad30"),
+                                    SpecId = new Guid("7399c8e7-9a4b-42df-b137-30d45ae10a6e"),
                                     Demand = 0,
-                                    ImageUrl = "/images/rogue-assassination.jpg",
+                                    ImageUrl = "/images/class-icons/rogue-assassination.jpg",
                                     Name = "Assassination"
                                 },
                                 new
                                 {
                                     PlayerClassId = 3,
-                                    SpecId = new Guid("9a79041c-95a6-4ce9-a485-809aa2294cc5"),
+                                    SpecId = new Guid("f0e9016f-f348-41d9-a13a-920caed041e3"),
                                     Demand = 0,
-                                    ImageUrl = "/images/rogue-outlaw.jpg",
+                                    ImageUrl = "/images/class-icons/rogue-outlaw.jpg",
                                     Name = "Outlaw"
                                 },
                                 new
                                 {
                                     PlayerClassId = 3,
-                                    SpecId = new Guid("dbccb283-3eb1-4620-a756-8ffc2a790298"),
+                                    SpecId = new Guid("374f5aca-1323-4840-b26c-6e317ff1f353"),
                                     Demand = 0,
-                                    ImageUrl = "/images/rogue-subtlety.jpg",
+                                    ImageUrl = "/images/class-icons/rogue-subtlety.jpg",
                                     Name = "Subtlety"
                                 },
                                 new
                                 {
                                     PlayerClassId = 4,
-                                    SpecId = new Guid("787a89c3-b350-49a9-80d6-be242b30b9a6"),
+                                    SpecId = new Guid("e2ccae81-6a80-40fe-b25d-54dfbf8592c5"),
                                     Demand = 0,
-                                    ImageUrl = "/images/dh-havoc.jpg",
+                                    ImageUrl = "/images/class-icons/dh-havoc.jpg",
                                     Name = "Havoc"
                                 },
                                 new
                                 {
                                     PlayerClassId = 4,
-                                    SpecId = new Guid("73ea710a-a3a0-4554-aef2-8ac4746a4391"),
+                                    SpecId = new Guid("3318bc67-eeea-4252-a3a3-62d64510d33e"),
                                     Demand = 0,
-                                    ImageUrl = "/images/dh-vengeance.jpg",
+                                    ImageUrl = "/images/class-icons/dh-vengeance.jpg",
                                     Name = "Vengeance"
                                 },
                                 new
                                 {
                                     PlayerClassId = 5,
-                                    SpecId = new Guid("18dad26d-20d5-4e0a-9835-ff95b38677b4"),
+                                    SpecId = new Guid("f5e814f8-3233-4c63-a94b-15de864d19e4"),
                                     Demand = 0,
-                                    ImageUrl = "/images/monk-brewmaster.jpg",
+                                    ImageUrl = "/images/class-icons/monk-brewmaster.jpg",
                                     Name = "Brewmaster"
                                 },
                                 new
                                 {
                                     PlayerClassId = 5,
-                                    SpecId = new Guid("922d66ef-f443-4276-ae21-d9221b7cc91e"),
+                                    SpecId = new Guid("27487a76-70e9-4ca2-af17-4cdde9997165"),
                                     Demand = 0,
-                                    ImageUrl = "/images/monk-mistweaver.jpg",
+                                    ImageUrl = "/images/class-icons/monk-mistweaver.jpg",
                                     Name = "Mistweaver"
                                 },
                                 new
                                 {
                                     PlayerClassId = 5,
-                                    SpecId = new Guid("4d790602-7124-4e8b-af29-a49bc9809379"),
+                                    SpecId = new Guid("7bcfa67b-d2f8-4b5b-a229-931b5f0a24db"),
                                     Demand = 0,
-                                    ImageUrl = "/images/monk-windwalker.jpg",
+                                    ImageUrl = "/images/class-icons/monk-windwalker.jpg",
                                     Name = "Windwalker"
                                 },
                                 new
                                 {
                                     PlayerClassId = 6,
-                                    SpecId = new Guid("fe8499c3-42e4-4061-aa04-392c4f167f3c"),
+                                    SpecId = new Guid("2c6f8ea4-e56e-46fe-bf65-85f5745c7c75"),
                                     Demand = 0,
-                                    ImageUrl = "/images/shaman-elemental.jpg",
+                                    ImageUrl = "/images/class-icons/shaman-elemental.jpg",
                                     Name = "Elemental"
                                 },
                                 new
                                 {
                                     PlayerClassId = 6,
-                                    SpecId = new Guid("2204525b-6f49-44a1-8602-2c801b2d9e74"),
+                                    SpecId = new Guid("9d210045-cd1e-461f-a9b2-382f3bcb9701"),
                                     Demand = 0,
-                                    ImageUrl = "/images/shaman-enhancement.jpg",
+                                    ImageUrl = "/images/class-icons/shaman-enhancement.jpg",
                                     Name = "Enhancement"
                                 },
                                 new
                                 {
                                     PlayerClassId = 6,
-                                    SpecId = new Guid("09983a63-4030-4093-9d53-8548ef1d12ca"),
+                                    SpecId = new Guid("6fcaaf4c-7379-4c68-9f13-3a018154d459"),
                                     Demand = 0,
-                                    ImageUrl = "/images/shaman-restoration.jpg",
+                                    ImageUrl = "/images/class-icons/shaman-restoration.jpg",
                                     Name = "Restoration"
                                 },
                                 new
                                 {
                                     PlayerClassId = 7,
-                                    SpecId = new Guid("b7ff1a1e-b9f2-4557-92e6-2e9fe22510ae"),
+                                    SpecId = new Guid("1b63dce3-d7c0-48de-a127-b660a6f4c80b"),
                                     Demand = 0,
-                                    ImageUrl = "/images/druid-balance.jpg",
+                                    ImageUrl = "/images/class-icons/druid-balance.jpg",
                                     Name = "Balance"
                                 },
                                 new
                                 {
                                     PlayerClassId = 7,
-                                    SpecId = new Guid("5eab143c-be2e-459b-983e-8a392176512b"),
+                                    SpecId = new Guid("c42ae962-f8cb-41bd-a6a5-53e8fa1d215b"),
                                     Demand = 0,
-                                    ImageUrl = "/images/druid-feral.jpg",
+                                    ImageUrl = "/images/class-icons/druid-feral.jpg",
                                     Name = "Feral"
                                 },
                                 new
                                 {
                                     PlayerClassId = 7,
-                                    SpecId = new Guid("ff99ccf2-58a4-410c-a8ba-e231232d8d7f"),
+                                    SpecId = new Guid("732df4fc-3815-4ffd-9317-ca507060a0d3"),
                                     Demand = 0,
-                                    ImageUrl = "/images/druid-guardian.jpg",
+                                    ImageUrl = "/images/class-icons/druid-guardian.jpg",
                                     Name = "Guardian"
                                 },
                                 new
                                 {
                                     PlayerClassId = 7,
-                                    SpecId = new Guid("c82a7c08-4880-495e-a33e-46e3010e302b"),
+                                    SpecId = new Guid("ec650abb-e334-4b6f-aab2-c239670c682c"),
                                     Demand = 0,
-                                    ImageUrl = "/images/druid-restoration.jpg",
+                                    ImageUrl = "/images/class-icons/druid-restoration.jpg",
                                     Name = "Restoration"
                                 },
                                 new
                                 {
                                     PlayerClassId = 8,
-                                    SpecId = new Guid("85c07efd-e37c-4f6b-8c4d-1d242411d7af"),
+                                    SpecId = new Guid("bbc9b896-0203-4b72-b443-21db88e624a3"),
                                     Demand = 0,
-                                    ImageUrl = "/images/paladin-holy.jpg",
+                                    ImageUrl = "/images/class-icons/paladin-holy.jpg",
                                     Name = "Holy"
                                 },
                                 new
                                 {
                                     PlayerClassId = 8,
-                                    SpecId = new Guid("70a7f1e5-efcb-4994-8b3e-b8e23485a804"),
+                                    SpecId = new Guid("acdc1873-6103-4e43-9855-01f8246e69d5"),
                                     Demand = 0,
-                                    ImageUrl = "/images/paladin-protection.jpg",
+                                    ImageUrl = "/images/class-icons/paladin-protection.jpg",
                                     Name = "Protection"
                                 },
                                 new
                                 {
                                     PlayerClassId = 8,
-                                    SpecId = new Guid("f3696cb1-ee0b-4211-ad16-b5eef5d36fbb"),
+                                    SpecId = new Guid("f192b2d6-8f5f-429b-b0fe-c0afd679fda8"),
                                     Demand = 0,
-                                    ImageUrl = "/images/paladin-retribution.jpg",
+                                    ImageUrl = "/images/class-icons/paladin-retribution.jpg",
                                     Name = "Retribution"
                                 },
                                 new
                                 {
                                     PlayerClassId = 9,
-                                    SpecId = new Guid("96d350fb-feaf-4d26-9f0f-c1843104669c"),
+                                    SpecId = new Guid("9eeda09f-c86f-45ac-9ac3-90e64a3c91d3"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warlock-affliction.jpg",
+                                    ImageUrl = "/images/class-icons/warlock-affliction.jpg",
                                     Name = "Affliction"
                                 },
                                 new
                                 {
                                     PlayerClassId = 9,
-                                    SpecId = new Guid("9bb9a47c-7452-4d25-a203-44536d6c5493"),
+                                    SpecId = new Guid("a6c2df25-611c-44a5-99b7-968518219833"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warlock-demonology.jpg",
+                                    ImageUrl = "/images/class-icons/warlock-demonology.jpg",
                                     Name = "Demonology"
                                 },
                                 new
                                 {
                                     PlayerClassId = 9,
-                                    SpecId = new Guid("d0a85c59-2a51-4bb8-86dc-6c8a61b917ca"),
+                                    SpecId = new Guid("bf949bb1-0e98-4297-ab15-29648d59adbe"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warlock-destruction.jpg",
+                                    ImageUrl = "/images/class-icons/warlock-destruction.jpg",
                                     Name = "Destruction"
                                 },
                                 new
                                 {
                                     PlayerClassId = 10,
-                                    SpecId = new Guid("8569a32e-805b-4e5b-ae97-e6ac4a0bbb5a"),
+                                    SpecId = new Guid("0c69f2f0-33a5-4181-b374-25b64c27be21"),
                                     Demand = 0,
-                                    ImageUrl = "/images/hunter-bm.jpg",
+                                    ImageUrl = "/images/class-icons/hunter-bm.jpg",
                                     Name = "Beast Mastery"
                                 },
                                 new
                                 {
                                     PlayerClassId = 10,
-                                    SpecId = new Guid("5b5c6666-25bb-4589-9848-3330def9c9c8"),
+                                    SpecId = new Guid("65ee523b-ef2e-48a4-94cf-f460b1b964be"),
                                     Demand = 0,
-                                    ImageUrl = "/images/hunter-marksmanship.jpg",
+                                    ImageUrl = "/images/class-icons/hunter-marksmanship.jpg",
                                     Name = "Marksmanship"
                                 },
                                 new
                                 {
                                     PlayerClassId = 10,
-                                    SpecId = new Guid("fed28f86-3580-4262-9b2d-1f6f55529e66"),
+                                    SpecId = new Guid("d0c2aba8-defb-4a31-b28c-c986d05b2d63"),
                                     Demand = 0,
-                                    ImageUrl = "/images/hunter-survival.jpg",
+                                    ImageUrl = "/images/class-icons/hunter-survival.jpg",
                                     Name = "Survival"
                                 },
                                 new
                                 {
                                     PlayerClassId = 11,
-                                    SpecId = new Guid("21fe58a9-e4d3-4f25-b225-d9cf30ff0a0e"),
+                                    SpecId = new Guid("ec609361-14c1-49b4-9629-606402262513"),
                                     Demand = 0,
-                                    ImageUrl = "/images/priest-discipline.jpg",
+                                    ImageUrl = "/images/class-icons/priest-discipline.jpg",
                                     Name = "Discipline"
                                 },
                                 new
                                 {
                                     PlayerClassId = 11,
-                                    SpecId = new Guid("ac57893a-2446-45cf-8d1b-15442c9a8065"),
+                                    SpecId = new Guid("0af543c9-0486-42a7-9613-d5d7096a8013"),
                                     Demand = 0,
-                                    ImageUrl = "/images/priest-holy.jpg",
+                                    ImageUrl = "/images/class-icons/priest-holy.jpg",
                                     Name = "Holy"
                                 },
                                 new
                                 {
                                     PlayerClassId = 11,
-                                    SpecId = new Guid("f0e1f6f7-931b-4b1f-973d-9bed1bf8e4ba"),
+                                    SpecId = new Guid("534447f5-33cb-4602-9db2-dfcadef0c945"),
                                     Demand = 0,
-                                    ImageUrl = "/images/priest-shadow.jpg",
+                                    ImageUrl = "/images/class-icons/priest-shadow.jpg",
                                     Name = "Shadow"
                                 },
                                 new
                                 {
                                     PlayerClassId = 12,
-                                    SpecId = new Guid("7e5baee7-f812-4f1e-aea3-fdc181faeb7e"),
+                                    SpecId = new Guid("0481451c-b098-4c84-a4a2-cd328a3e5bac"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warrior-arms.jpg",
+                                    ImageUrl = "/images/class-icons/warrior-arms.jpg",
                                     Name = "Arms"
                                 },
                                 new
                                 {
                                     PlayerClassId = 12,
-                                    SpecId = new Guid("2cf2c599-d8b3-4ff2-abec-afa7da5508a6"),
+                                    SpecId = new Guid("61c8467d-4752-4fef-bb03-b953b3f3d632"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warrior-fury.jpg",
+                                    ImageUrl = "/images/class-icons/warrior-fury.jpg",
                                     Name = "Fury"
                                 },
                                 new
                                 {
                                     PlayerClassId = 12,
-                                    SpecId = new Guid("cd1369d6-dd98-44ae-b390-a36dee7e2aa2"),
+                                    SpecId = new Guid("082651b9-6320-4229-8295-eea8ed65780e"),
                                     Demand = 0,
-                                    ImageUrl = "/images/warrior-protection.jpg",
+                                    ImageUrl = "/images/class-icons/warrior-protection.jpg",
                                     Name = "Protection"
                                 });
                         });
